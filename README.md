@@ -21,11 +21,3 @@ Middle part
 Middle part
 
 ![Photos](images/webtool/Preview2.JPG)
-
-Middle part
-
-![Photos](images/webtool/Preview3.JPG)
-
-Footer 
-
-![Photos](images/webtool/Preview4.JPG)
